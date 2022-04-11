@@ -19,11 +19,13 @@ The results in Table below shows that there are
 
 ![fig1](https://github.com/nebil2016/Pewlett-Hackard-Analysi/blob/main/Number%20of%20retiring%20people.png)
 
-## 2.2.	Eligible employees who can participate in a mentorship program
+## 2.2.	Eligible employees for the mentorship program
 
-There are 1549 employees are identified for mentorship program composed of different titles which includes senior staff, engineers, technical leaders, and etc.  A snipped image of the first 9 rows is displayed below.
+There are 1549 retirment ready employees who can give mentorship trainings. These are omposed of different titles which includes senior staff, engineers, technical leaders, and etc.  A snipped image of the first 9 rows is displayed below.
 
 ![fig-2](https://github.com/nebil2016/Pewlett-Hackard-Analysi/blob/main/mentroship%20program.png)
 
 # 3 Summary
+The findings of this exercise showed that Pewlett Hackard will have 72458 vacant positions which will be like “silver tsunami”. These are at different levels of titles. There will be  25916 vacant positions   at retiring senior engineers levels , 24926 senior staffs levels, 9285 engineers level, 7636  staff levels, 3603 technical leader levels, 1090  assistant engineer levels and 2 manger levels. 
+Father, there are 1549 eligible retirement ready employees who can give mentorship training for the upcoming younger generations. 
 
