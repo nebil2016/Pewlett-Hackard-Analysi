@@ -17,3 +17,14 @@ The results in Table below shows that there are
 * 1090 retiring assistant engineers
 * 2 retiring mangers
 
+![fig1]()
+
+
+## 2.2.	Eligible employees who can participate in a mentorship program
+
+There are 1549 employees are identified for mentorship program composed of different titles which includes senior staff, engineers, technical leaders, and etc.  A snipped image of the first 9 rows is displayed below.
+
+![fig-2]()
+
+# 3 Summary
+
