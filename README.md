@@ -6,3 +6,14 @@ A large company called Pewlett Hackard has several thousands of employees and it
 * Develop SQL script to generate the number of retiring people per title
 * Develop SQL script to identify who are eligible to participate in a mentorship program
 * Analyze the results
+# 2.	Results
+## 2.1.	The number of retiring people per title
+The results in Table below shows that there are 
+* 25916 retiring senior engineers
+* 24926 retiring senior staffs
+* 9285 retiring engineers
+* 7636 retiring staff
+* 3603 retiring technical leaders
+* 1090 retiring assistant engineers
+* 2 retiring mangers
+
